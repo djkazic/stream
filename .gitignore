@@ -14,12 +14,16 @@ local.properties
 *.dex
 
 # Kotlin
+.kotlin/
 *.class
 
 # IDE
 .idea/
 *.iml
 .DS_Store
+
+# Signing
+keystore.properties
 
 # Logs
 *.log
